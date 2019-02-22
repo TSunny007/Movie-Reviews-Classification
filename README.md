@@ -12,3 +12,5 @@ Classifiers implemented from scratch include:
 * [Neural Network](https://nbviewer.jupyter.org/github/TarunSunkaraneni/Movie-Reviews-Classification/blob/master/neural-net-movie-review-classifier.ipynb): accuracy of 86.3% on testing data, 86.2% on validation data
 
 All classifiers are compliant with Scikit-learn's API, and that makes it possible to use Sklearn's CV and Gridsearch functions. This allows for multi-core training and cross-validation capability. 
+
+[Kaggle Competition](https://www.kaggle.com/c/uofu-ml-fall-2018/leaderboard) gives more details about the dataset. The dataset can also be found at http://ai.stanford.edu/~amaas/data/sentiment/
